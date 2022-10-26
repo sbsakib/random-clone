@@ -1,5 +1,4 @@
 # random-clone
-Commands
 pkg update && upgrade
 
 rm -rf random-clone
